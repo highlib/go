@@ -1,3 +1,3 @@
-## Go Libraries
+## My Own Golang Modules
 
-Be free to use (see the others `branchs`).
+Be free to use.
